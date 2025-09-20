@@ -1,0 +1,14 @@
+{
+    "name": "extrax",
+    "description": "The default extrax theme",
+    "authors": [{
+        "name": "Nehxurai",
+        "url": "https://example.com"
+    }],
+    "screenshot": "https://raw.githubusercontent.com/project-extrex/dashboard/refs/heads/main/theme/extrax/screenshot.png?token=GHSAT0AAAAAADFWIFNV6Q4YTEU3552DFX3O2GOMZLQ",
+    "homepage": "https://github.com/project-extrex/dashboard/tree/main",
+    "theme-json": "https://raw.githubusercontent.com/project-extrex/dashboard/refs/heads/main/theme/extrax/theme.json?token=GHSAT0AAAAAADFWIFNUHN3UMPET6WUR6SY42GOM2MQ",
+    "version": "0.0.1",
+    "prefix": "ext",
+    "tag": []
+}
